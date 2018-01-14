@@ -3,6 +3,5 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-description: Client-server application written with Java, JHipster, C++, Qt, Python and Angular
 ---
 
