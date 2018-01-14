@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Open source CRM for small and medium business
 email: sale@idurdyev.com
-description: > Client-server application written with Java, JHipster, C++, Qt, Python and Angular
+description: Client-server application written with Java, JHipster, C++, Qt, Python and Angular
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://torgcrm.ru" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  torgcrm
